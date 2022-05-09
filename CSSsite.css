@@ -26,4 +26,5 @@ h1{font-size: 45px; color: #1E7FCB;}
 #image{width: 800px; text-align: center; right: 50px; padding-right: 20px; }
 #titre {font-size: 50px;}
 #h{font-size: 30px; color: white;}
-#im{width: 300PX;}
+#im{width: 300PX;margin: auto;}
+#ac{width: 1900px;height: 400px;}
